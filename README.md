@@ -6,13 +6,3 @@
 <p align="left">
 <a href="https://discord.gg/3gUYYPSspa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="leech" height="30" width="40" /></a>
 </p>
-
-  
-  
-  #### Daylily Random comic strip
-<!--START_SECTION:comicstrip-->
-<p align="center">
- <a href="https://xkcd.com/%22%3E
- <img src="https://imgs.xkcd.com/comics/college_knowledge.png" />
-</a>
-</p>
